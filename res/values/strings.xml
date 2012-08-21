@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ViewFlipperSample</string>
+    
+    <string name="viewflipper_anim">ViewFlipper_Animation</string>
+    <string name="current_page_move">Current PageMove</string>
+    <string name="next_prev_page_move">NextPrevious PageMove</string>
+    
+    <string name="text_page1">画面1</string>
+    <string name="text_page2">画面2</string>
+    <string name="text_page3">画面3</string>
+
+</resources>
